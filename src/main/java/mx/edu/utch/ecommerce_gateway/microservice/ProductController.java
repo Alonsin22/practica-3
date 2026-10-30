@@ -16,7 +16,7 @@ public class ProductController {
 
     private static final Map<String, Product> PRODUCTS = Map.of(
             "P-101", new Product("P-101", "Laptop Gamer XYZ",
-                    "Laptop con procesador de última generación y 16GB de RAM",
+                    "Laptop con procesador de casi la ultima generación y 16GB de RAM",
                     "Computadoras", 1200.00),
             "P-102", new Product("P-102", "Mouse Inalámbrico Pro",
                     "Mouse ergonómico con sensor óptico de alta precisión",
